@@ -17,7 +17,7 @@
 
 </div>
 
-<h3>✨ Funkcionalnosti</h3>
+<h3>Funkcionalnosti:</h3>
 
 <ul>
   <li><b>Vnosna polja:</b> Username, Full name, Country, Email, Phone number in Password.</li>
