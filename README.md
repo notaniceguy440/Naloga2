@@ -1,7 +1,7 @@
 obstoječe povezave do vaših slik):
 <div align="center">
 
-  <h1>📱 FirstForm - Registracijski Obrazec</h1>
+  <h1> FirstForm - Registracijski Obrazec</h1>
 
   <p>
     Enostavna mobilna aplikacija v jeziku <b>Java</b> za registracijo uporabnika (Razvoj mobilnih aplikacij - Naloga 2).
