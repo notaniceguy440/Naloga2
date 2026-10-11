@@ -1,4 +1,3 @@
-obstoječe povezave do vaših slik):
 <div align="center">
 
   <h1>Registracijski Obrazec</h1>
