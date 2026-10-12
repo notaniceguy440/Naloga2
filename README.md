@@ -3,13 +3,7 @@
   <h1>Registracijski Obrazec</h1>
 
   <p>
-    Enostavna mobilna aplikacija v jeziku <b>Java</b> za registracijo uporabnika (Razvoj mobilnih aplikacij - Naloga 2).
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Jezik-Java-orange.svg" alt="Java" />
-    <img src="https://img.shields.io/badge/Platforma-Android-green.svg" alt="Android" />
-    <img src="https://img.shields.io/badge/Min%20SDK-29-blue.svg" alt="Min SDK" />
+    Enostavna mobilna aplikacija v jeziku <b>Java</b> za registracijo uporabnika.
   </p>
 
   <hr />
